@@ -1,13 +1,5 @@
-
-
-const Homepage = async () => {
-
-
-  return (
-      <>
-        Prostore
-      </>
-  );
+const Homepage = () => {
+  return <>Prostore</>;
 };
 
 export default Homepage;
